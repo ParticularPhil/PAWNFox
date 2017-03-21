@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwnEditor", "PwnEditor\PwnEditor.csproj", "{9DB87F0D-6D9E-401B-B5C7-3135EDAFD051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB87F0D-6D9E-401B-B5C7-3135EDAFD051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB87F0D-6D9E-401B-B5C7-3135EDAFD051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB87F0D-6D9E-401B-B5C7-3135EDAFD051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB87F0D-6D9E-401B-B5C7-3135EDAFD051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
